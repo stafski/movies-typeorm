@@ -1,6 +1,6 @@
 # Projeto Locadora de Streaming
 
-Este é um projeto de uma locadora de streaming desenvolvido utilizando as seguintes tecnologias: Express, TypeORM, TypeScript, dotenv, zod e PostgreSQL.
+Este projeto consiste em uma API de locadora de streaming, especializada no CRUD (Create, Read, Update, Delete) de filmes. Com ela, é possível criar registros de filmes com informações detalhadas e preço, atualizar essas informações, deletar registros e listar todos os filmes disponíveis. Para garantir a integridade e a segurança dos dados, foram implementados diversos middlewares que realizam verificações em cada requisição.
 
 ## Configuração do Ambiente
 
